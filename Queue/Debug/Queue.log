@@ -1,0 +1,3 @@
+﻿  Source.cpp
+e:\c++\queue\queue\source.cpp(102): warning C4715: 'Queue<Process>::peek': not all control paths return a value
+  Queue.vcxproj -> E:\C++\Queue\Debug\Queue.exe
